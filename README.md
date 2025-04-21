@@ -1,5 +1,7 @@
 # Introduction
 
+DUMMY
+
 - Our goal is to make a free, easy to use and open source web tool for team workflow management
 - The tool has all the required features required for managing workflows without over complicating the tool
 - The tool allows for more efficient work in teams where all members are not often in the same space
